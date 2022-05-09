@@ -194,8 +194,8 @@
 
 ## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
     
-<img src ="https://img.shields.io/badge/Important-notice-red" />
 #### This Tool Must Run As ROOT !!!
+<img src ="https://img.shields.io/badge/Important-notice-red" />
 
     git clone https://github.com/goddardYYZ/hackingtool.git
     
@@ -213,5 +213,5 @@
 
 
 #### Thanks to original Authors of the tools used in hackingtool
-<img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
+<img src ="https://img.shields.io/badge/Important-notice-red" />
